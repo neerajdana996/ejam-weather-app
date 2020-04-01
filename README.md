@@ -31,6 +31,9 @@ To start the Webapp
 
 On success full start you will 
 
-![](https://cdn-images-1.medium.com/max/2106/undefined)
+![](https://cdn-images-1.medium.com/max/800/1*HzF_11kZE2fhL4jiqKhk2g.png)
+
+On Mobile
+![](https://cdn-images-1.medium.com/max/800/1*XCRbuCK9awxo7Hoc2BTCwQ.png)
 
 just select the city and hit get data button to get weather informa
